@@ -3,4 +3,6 @@
 struct Foo{
 	int member;
 };
+
+//other small message for Kratosorion
 #endif
